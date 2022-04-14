@@ -1,0 +1,14 @@
+body {
+    align-items: center;
+    background: #0f1711;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+canvas {
+    background: #07330c;
+    height: 480px;
+    width: 640px;
+}
